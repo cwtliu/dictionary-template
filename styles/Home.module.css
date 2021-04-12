@@ -7,13 +7,14 @@
   align-items: center;
 }
 
+
 .main {
   padding: 5rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+/*  justify-content: center;
+  align-items: center;*/
 }
 
 .footer {
@@ -70,6 +71,18 @@
   font-size: 1.1rem;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.cammiebackground {
+  overflow:hidden;
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.cammietitletext {
+  color: #a3bfff;
+  text-align: center;
+  font-size: 24px;
+  padding-top: 32px;
 }
 
 .grid {
