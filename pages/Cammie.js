@@ -13,7 +13,6 @@ import { Carousel } from 'react-responsive-carousel';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import ReactPlayer from 'react-player';
 import Autocomplete from 'react-autocomplete';
-import About from './About.js';
 
 const images = [
   {
